@@ -1,2 +1,3 @@
 models:
-    data: [{ TennatID: cognizant }]
+    hook:
+        data: [{ TennatID: cognizant }]
