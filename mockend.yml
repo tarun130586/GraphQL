@@ -1,7 +1,3 @@
 models:
   Post:
-    data:
-      TennatID: cognizant
-      EventType: create
-      ResourceType: contact
-      NotificationUrl: abc.com
+    data: [{ TennatID: 'cognizant',EventType :'create',ResourceType:'contact',NotificationUrl:'abc.com'}]
