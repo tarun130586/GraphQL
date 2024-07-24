@@ -1,2 +1,2 @@
 models:
-    data: [{ TennatID: cognizant , EventType: create, ResourceType : contact, NotificationUrl : www.example.com, SubscriptionId : xyz123 }]
+    data: [{ TennatID: cognizant , EventType: create, ResourceType : contact, NotificationUrl : www.example.com}]
