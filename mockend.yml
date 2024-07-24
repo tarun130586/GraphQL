@@ -1,3 +1,4 @@
 models:
   Hook:
-    data: { TennatID: cognizant , EventType: create, ResourceType : contact, NotificationUrl : www.example.com}
+    _count: 1
+    data: [{ TennatID: cognizant , EventType: create, ResourceType : contact, NotificationUrl : www.example.com}]
